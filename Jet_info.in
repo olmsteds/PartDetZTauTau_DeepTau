@@ -190,7 +190,7 @@ ApplyJetBTaggingCSVv2 0
 ApplyJetBTaggingDeepCSV 1
 ApplyJetBTaggingDeepFlav 0
 
-JetBTaggingWP   medium
+JetBTaggingWP   tight
 JetBTaggingCut  0.8001
 MatchBToGen     0
 UseBtagSF       0
