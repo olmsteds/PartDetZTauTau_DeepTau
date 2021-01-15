@@ -102,7 +102,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.3
 Tau2MatchingDeltaR 0.3
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 ####################################
 	 FirstLeadingJet
@@ -131,7 +131,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.3
 Tau2MatchingDeltaR 0.3
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 ####################################
 	 SecondLeadingJet
@@ -160,7 +160,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.3
 Tau2MatchingDeltaR 0.3
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 ###################################
     	     BJet
@@ -184,7 +184,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.3
 Tau2MatchingDeltaR 0.3
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 ApplyJetBTaggingCSVv2 0 
 ApplyJetBTaggingDeepCSV 1
